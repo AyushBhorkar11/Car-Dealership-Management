@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791714470064,
+      "tag": "0000_cdms_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791714737342,
+      "tag": "0001_cdms_transaction_guards",
+      "breakpoints": true
+    }
+  ]
+}

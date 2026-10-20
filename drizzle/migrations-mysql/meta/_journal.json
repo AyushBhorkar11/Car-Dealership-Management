@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1791959122933,
+      "tag": "0000_famous_norrin_radd",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1791959380095,
+      "tag": "0001_abnormal_catseye",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1791995501628,
+      "tag": "0002_cuddly_kabuki",
+      "breakpoints": true
+    }
+  ]
+}
